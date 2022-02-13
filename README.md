@@ -1,2 +1,2 @@
 # pipefy-clone
-Project cloning Pipefy frontend in Reat JS
+Project cloning Pipefy frontend in React JS
